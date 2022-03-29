@@ -1,4 +1,4 @@
-### Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,[Mansoor](https://izzarzn.github.io) here. 
+### Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">,[Mansoor](https://mansoor-colb.github.io) here. 
 
 
 <a href="https://www.linkedin.com/in/mansoor-ahmed-77723a223">
@@ -38,12 +38,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
-<!-- ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Arjun!](https://izzarzn.github.io)  -->
 
-<!-- 
 
-🎓 I’m an Open-Source enthusiast & i am currently pursuing B.E in Computer Science </br>
-👨‍💻 I enjoy learning new things. </br> -->
 
 ![Mansoor's github stats](https://github-readme-stats.vercel.app/api?username=mansoor-colb&show_icons=true)
 <a href="https://wakatime.com/@mansoor-colb" target="_blank"><br>
