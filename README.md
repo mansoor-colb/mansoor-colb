@@ -27,7 +27,7 @@
 <!-- - 🔭 -->
 -  I’m currently pursuing my B-tech in Computer Science Engineering from Bangalore.
 -  I'm a passionate web-Developer. Having pretty good hold in js & php.
--  [check out profile.](https://portfolio-mansoor.herokuapp.com/)
+-  [check out profile.](https://portfolio-mansoor-ahmed.herokuapp.com/)
 
  <h5>I Always Look forward to explore new stuffs and being consistent in the same 🧩🐱‍👤💡.</h5>
 <!-- - 🌱 I’m currently learning ...
