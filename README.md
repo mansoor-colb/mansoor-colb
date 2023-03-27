@@ -27,7 +27,7 @@ Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/As
 <!-- - 🔭 -->
 -  I’m currently pursuing my B-tech in Computer Science Engineering from Bangalore.
 -  I'm a passionate web-Developer. Having pretty good hold in js & php.
--  [check out profile.](https://portfolio-ahmed-mansoor.herokuapp.com/)
+-  [check out profile.](https://mansoor-portfolio.unaux.com/)
 
  <h5>I Always Look forward to explore new stuffs and being consistent in the same 🧩🐱‍👤💡.</h5>
 <!-- - 🌱 I’m currently learning ...
@@ -40,10 +40,10 @@ Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/As
 
 
 
-![Arjun's github stats](https://github-readme-stats.vercel.app/api?username=mansoor-colb&show_icons=true)
+![Mansoor's github stats](https://github-readme-stats.vercel.app/api?username=mansoor-colb&show_icons=true)
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mansoor-colb&theme=react)](https://git.io/streak-stats) 
 
-<a href="https://wakatime.com/@izzarzn" target="_blank"> <br> 
+<a href="https://wakatime.com/@mansoor-colb" target="_blank"> <br> 
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoor-colb&layout=compact" />
  
 </a>
@@ -52,7 +52,7 @@ Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/As
 <br>
 <br />
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mansoor-colb&theme=react)](https://git.io/streak-stats)
+
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mansoor-colb.mansoor-colb)
