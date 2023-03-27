@@ -7,7 +7,7 @@
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  target="_blank"/>
 </a>
 
-<a href="mailto:mansoorahmedz991@gmail.com?cc=mansoorahmed52002@gmail.com"">
+<a href="mailto:mansoorahmedz991@gmail.com?cc=mansoorahmed52002@gmail.com">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 <a href="https://devfolio.co/@MansoorAhmed">
