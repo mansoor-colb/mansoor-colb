@@ -1,6 +1,6 @@
-Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">,[Mansoor](https://mansoor-colb.github.io) here. 
+
 ## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="35" width="29"> [Mansoor!](https://mansoor-colb.github.io) here.
-<img align='right'  src="https://media2.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif?cid=ecf05e47qztdtr5j5zmu561r9wv8ojwced5iy14s4gpinqj9&rid=giphy.gif&ct=s">
+
 
 <h3 align="left">🤝 Connect with me</h3> 
 <a href="https://www.linkedin.com/in/mansoor-ahmed-77723a223">
