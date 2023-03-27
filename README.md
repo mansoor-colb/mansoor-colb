@@ -6,14 +6,15 @@
 <a href="https://www.linkedin.com/in/mansoor-ahmed-77723a223">
   <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  target="_blank"/>
 </a>
-<a href="https://twitter.com/mansoor79134975">
-  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-</a>
+
 <a href="mailto:mansoorahmedz991@gmail.com?cc=mansoorahmed52002@gmail.com"">
   <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
 <a href="https://devfolio.co/@MansoorAhmed">
   <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" />
+</a>
+<a href="https://twitter.com/mansoor79134975">
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
 
 
