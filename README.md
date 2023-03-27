@@ -1,23 +1,24 @@
 Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">,[Mansoor](https://mansoor-colb.github.io) here. 
+## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="35" width="29"> [Mansoor!](https://mansoor-colb.github.io) here.
+<img align='right'  src="https://media2.giphy.com/media/3pTZ5pUYLUHh6/giphy.gif?cid=ecf05e47qztdtr5j5zmu561r9wv8ojwced5iy14s4gpinqj9&rid=giphy.gif&ct=s">
 
-
+<h3 align="left">🤝 Connect with me</h3> 
 <a href="https://www.linkedin.com/in/mansoor-ahmed-77723a223">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  target="_blank"/>
+  <img align="left" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"  target="_blank"/>
 </a>
-
-<a href="mailto:mansoorahmedz991@gmail.com?cc=mansoorahmed52002@gmail.com">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="https://twitter.com/mansoor79134975">
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
-
-<a href="https://www.instagram.com/_mansoor.ahmed">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="mailto:mansoorahmedz991@gmail.com?cc=mansoorahmed52002@gmail.com"">
+  <img align="left" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
 </a>
-<!-- <a href="https://devfolio.co">
+<a href="https://devfolio.co/@MansoorAhmed">
   <img align="left" width="26px" src="https://cdn1.iconfinder.com/data/icons/logos-and-brands-3/512/84_Dev_logo_logos-512.png" />
 </a>
-<a href="https://twitter.com/">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a> -->
+
+
+
+
 <br></br>
 <h3>About Me ⚡</h3>
 <!--**mansoor-colb/mansoor-colb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.--> 
