@@ -29,7 +29,7 @@
 <!-- - 🔭 -->
 -  I’m currently pursuing my B-tech in Computer Science Engineering from Bangalore.
 -  I'm a passionate web-Developer. Having pretty good hold in js & php.
--  [check out profile.][<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tryitonline.svg' alt='tryitonline' height='40'>](https://mansoor-portfolio.unaux.com/) 
+-  check out profile.[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tryitonline.svg' alt='tryitonline' height='40'>](https://mansoor-portfolio.unaux.com/) 
 
  <h5>I Always Look forward to explore new stuffs and being consistent in the same 🧩🐱‍👤💡.</h5>
 <!-- - 🌱 I’m currently learning ...
