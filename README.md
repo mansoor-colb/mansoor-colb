@@ -48,7 +48,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=mansoor-colb&show_icons=true) 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansoor-colb)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mansoor-colb.mansoor-colb)
