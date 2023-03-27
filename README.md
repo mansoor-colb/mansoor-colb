@@ -45,7 +45,7 @@
 
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mansoor-colb&theme=react)](https://git.io/streak-stats) 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mansoor-colb)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br>
