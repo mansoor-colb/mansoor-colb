@@ -42,13 +42,10 @@
 
 
 
-![Mansoor's github stats](https://github-readme-stats.vercel.app/api?username=mansoor-colb&show_icons=true)
+
  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mansoor-colb&theme=react)](https://git.io/streak-stats) 
 
-<a href="https://wakatime.com/@mansoor-colb" target="_blank"> <br> 
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mansoor-colb&layout=compact" />
- 
-</a>
+
 
 
 <br>
