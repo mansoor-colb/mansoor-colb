@@ -1,5 +1,5 @@
 
-## Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="35" width="23"> [Mansoor !](https://mansoor-colb.github.io) here.
+## Hello<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="25" width="23"> [Mansoor !](https://mansoor-colb.github.io) here.
 
 
 <h3 align="left">🤝 Connect with me</h3> 
