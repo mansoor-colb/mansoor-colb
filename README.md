@@ -27,9 +27,9 @@ Hello
 <!-- Here are some ideas to get you started: -->
 
 <!-- - 🔭 -->
--  I’m currently pursuing my B-tech in Computer Science Engineering from Bangalore.
--  I'm a passionate web-Developer. Having pretty good hold in js & php.
--  check out profile.[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tryitonline.svg' alt='tryitonline' height='40'>](https://mansoor-portfolio.unaux.com/) 
+-  currently SDE1 @ havells India Limited , Bangalore.
+-  I'm a passionate Full stack Developer. Having pretty good hold in js.
+-  check out profile.[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tryitonline.svg' alt='tryitonline' height='40'>]([https://mansoor-portfolio.unaux.com/](https://www.linkedin.com/in/mansoor-ahmed-li)) 
 
  <h5>I Always Look forward to explore new stuffs and being consistent in the same 🧩🐱‍👤💡.</h5>
 <!-- - 🌱 I’m currently learning ...
